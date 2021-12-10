@@ -1,0 +1,24 @@
+{
+  "name": "electron-block",
+  "version": "0.1.0",
+  "description": "An example to block specified web resources.",
+  "main": "build/main.js",
+  "scripts": {
+    "start": "npx tsc && electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapsealk/electron-block.git"
+  },
+  "author": "rapsealk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rapsealk/electron-block/issues"
+  },
+  "homepage": "https://github.com/rapsealk/electron-block#readme",
+  "devDependencies": {
+    "electron": "^16.0.4",
+    "typescript": "^4.5.3"
+  }
+}
