@@ -1,0 +1,11 @@
+@-moz-document domain(naver.com) {
+    div {
+        display: none !important;
+    }
+}
+
+@-moz-document url-prefix(http://), url-prefix(https://) {
+    div {
+        display: none !important;
+    }
+}

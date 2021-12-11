@@ -1,6 +1,9 @@
 # electron-block
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/rapsealk/electron-block/blob/master/LICENSE)
 
+## Adblock
+* Element hiding: [LINK](https://adblockplus.org/en/faq_internal#elemhide)
+
 ## License
 <img align="right" width="144" height="192" src="https://opensource.org/files/OSIApproved_1.png">
 
